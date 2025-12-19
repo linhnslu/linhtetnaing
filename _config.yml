@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "Lin Htet Naing Portfolio"
+description: "Machine Learning & Health Data Science Projects"
+#logo: /assets/profile.png    # optional
+show_downloads: false
