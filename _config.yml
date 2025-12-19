@@ -1,15 +1,5 @@
 theme: jekyll-theme-minimal
 title: "Lin Htet Naing Portfolio"
 description: "Machine Learning & Health Data Science Projects"
-
-markdown: kramdown
-
-# Load custom CSS
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-
 logo: /assets/profile.jpg    # optional
 show_downloads: false
