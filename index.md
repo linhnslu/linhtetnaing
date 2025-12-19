@@ -26,7 +26,6 @@ Machine learning models for classification and continuous prediction.
 
 
 ## 📁 About This Portfolio
-This site is built with **GitHub Pages + Jekyll (Minimal Theme)**.  
 Each project includes:
 - Problem overview  
 - Dataset description  
@@ -38,6 +37,6 @@ Each project includes:
 ---
 
 ## 📬 Contact
-- **emails:** *linhtet.naing@slu.edu* *drlinhtetnaing@gmail.com*
+- **Emails:** *linhtet.naing@slu.edu* *drlinhtetnaing@gmail.com*
 - **GitHub:** https://github.com/linhnslu  
 
